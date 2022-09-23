@@ -1,4 +1,4 @@
-This is a rough version. Please contact me (cmy1223605455@gmail.com) if you encounter any problems.
+The program is a rough Matlab version. Please contact me (cmy1223605455@gmail.com) if you encounter any problems.
 Many thanks to Nabi Omidvar, Yuan Sun and Ming Yang for the reference code.
 
 1. Run GeneralSeparabilityDetection.m to start. The results are saved in the results folder. 
