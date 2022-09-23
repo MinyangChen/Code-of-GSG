@@ -1,5 +1,5 @@
 This is a rough version. Please contact me (cmy1223605455@gmail.com) if you encounter any problems.
-Many thanks to Nabi Omidvar, Yuan sun and Ming Yang for the reference code.
+Many thanks to Nabi Omidvar, Yuan Sun and Ming Yang for the reference code.
 
 1. Run GeneralSeparabilityDetection.m to start. The results are saved in the results folder. 
 The program runAnalyze.m is used to check the decomposition accuracy, and the total decompostion results are shown in "resultsTable" at workspace.
